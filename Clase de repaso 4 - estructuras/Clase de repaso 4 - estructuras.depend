@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1600627450 source:c:\users\frankito\desktop\programacion c - utn\clase de repaso 4 - estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animales-estructuras.h"
+
+1600634341 source:c:\users\frankito\desktop\programacion c - utn\clase de repaso 4 - estructuras\animales-estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"animales-estructuras.h"
+
+1600627387 c:\users\frankito\desktop\programacion c - utn\clase de repaso 4 - estructuras\animales-estructuras.h
+
+1600620889 c:\users\frankito\desktop\programacion c - utn\clase de repaso 4 - estructuras\animales.h
+

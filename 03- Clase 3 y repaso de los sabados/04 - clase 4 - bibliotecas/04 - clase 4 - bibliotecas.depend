@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599307628 source:c:\users\frankito\desktop\programacion c - utn\03- clase 3\04 - clase 4 - bibliotecas\bibliotecas.c
+
+1599308680 source:c:\users\frankito\desktop\programacion c - utn\03- clase 3\04 - clase 4 - bibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+

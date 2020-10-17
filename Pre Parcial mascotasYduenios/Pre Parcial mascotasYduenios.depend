@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1601903056 source:c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\duenios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"duenios.h"
+
+1601926298 source:c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MascotasYduenios.h"
+	"utn_estructuras.h"
+
+1601922115 source:c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"utn_estructuras.h"
+
+1601902763 c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\duenios.h
+
+1601917331 c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\mascotas.h
+
+1601925266 c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\utn_estructuras.h
+
+1601911431 source:c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\utn_estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_estructuras.h"
+
+1601926280 c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\mascotasyduenios.h
+	"mascotas.h"
+	"duenios.h"
+
+1601926225 source:c:\users\frankito\desktop\programacion c - utn\pre parcial mascotasyduenios\mascotasyduenios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"duenios.h"
+	"utn_estructuras.h"
+

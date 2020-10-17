@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1602629132 source:c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotasYrazas.h"
+	"validacionesYmenu.h"
+	"pais.h"
+
+1602634601 c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\mascotasyrazas.h
+	"mascotas.h"
+	"razas.h"
+	"pais.h"
+
+1602627609 c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\mascotas.h
+
+1602629121 c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\razas.h
+	"pais.h"
+
+1602633332 source:c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validacionesYmenu.h"
+
+1602629144 source:c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\razas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"razas.h"
+
+1602634906 source:c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\mascotasyrazas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"pais.h"
+	"mascotasYrazas.h"
+	"validacionesYmenu.h"
+
+1602551917 source:c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\validacionesymenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validacionesYmenu.h"
+
+1602552147 c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\validacionesymenu.h
+
+1602628361 c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\pais.h
+
+1602628698 source:c:\users\frankito\desktop\programacion c - utn\parcial-laboratorio\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotasYrazas.h"
+	"validacionesYmenu.h"
+	"pais.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601133066 source:c:\users\frankito\desktop\programacion c - utn\proyecto-practica sabados-alumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

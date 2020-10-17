@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600735444 source:c:\users\frankito\desktop\programacion c - utn\clase 8 - estructuras - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

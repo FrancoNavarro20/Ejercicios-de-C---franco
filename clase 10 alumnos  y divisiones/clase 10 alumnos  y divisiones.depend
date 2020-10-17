@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1601416722 source:c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos_y_divisiones.h"
+	"ingresar_y_validar.h"
+
+1601414993 source:c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+
+1601408281 c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\alumnos.h
+
+1601394924 source:c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\divisiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"divisiones.h"
+
+1601393357 c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\divisiones.h
+
+1601396384 source:c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\ingresar_y_validar.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ingresar_y_validar.h"
+
+1601396326 c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\ingresar_y_validar.h
+
+1601408357 source:c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\alumnos_y_divisiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos_y_divisiones.h"
+	"ingresar_y_validar.h"
+
+1601408325 c:\users\frankito\desktop\programacion c - utn\clase 10 alumnos  y divisiones\alumnos_y_divisiones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+	"divisiones.h"
+	"ingresar_y_validar.h"
+

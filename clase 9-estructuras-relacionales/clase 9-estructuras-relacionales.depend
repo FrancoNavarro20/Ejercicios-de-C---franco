@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1601336890 source:c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\main.c
+	<stdio.h>
+	<string.h>
+	"alumnos_divisiones.h"
+
+1601342453 source:c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\alumnos.c
+	<stdio.h>
+	<string.h>
+	"alumnos.h"
+
+1601335650 c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\alumnos.h
+	<stdio.h>
+	<string.h>
+
+1601334117 source:c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\cursos.c
+	<stdio.h>
+	<string.h>
+	"cursos.h"
+
+1601333923 c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\cursos.h
+
+1601394167 source:c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\alumnos_divisiones.c
+	<stdio.h>
+	<string.h>
+	"alumnos_divisiones.h"
+
+1601336849 c:\users\frankito\desktop\programacion c - utn\clase 9-estructuras-relacionales\alumnos_divisiones.h
+	<stdio.h>
+	<string.h>
+	"alumnos.h"
+	"cursos.h"
+

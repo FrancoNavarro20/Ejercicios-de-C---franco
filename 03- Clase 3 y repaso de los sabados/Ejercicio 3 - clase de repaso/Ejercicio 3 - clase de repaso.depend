@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599501152 source:c:\users\frankito\desktop\programacion c - utn\03- clase 3 y repaso de los sabados\ejercicio 3 - clase de repaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ValidacionesSexo.h"
+
+1599449612 c:\users\frankito\desktop\programacion c - utn\03- clase 3 y repaso de los sabados\ejercicio 3 - clase de repaso\validacionessexo.h
+
+1599449248 source:c:\users\frankito\desktop\programacion c - utn\03- clase 3 y repaso de los sabados\ejercicio 3 - clase de repaso\validacionessexo.c
+	<stdio.h>
+	<stdlib.h>
+	"ValidacionesSexo.h"
+

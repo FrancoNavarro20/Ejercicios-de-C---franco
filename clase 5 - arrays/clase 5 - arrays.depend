@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599598415 source:c:\users\frankito\desktop\programacion c - utn\clase 5 - arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1599598145 c:\users\frankito\desktop\programacion c - utn\clase 5 - arrays\vectores.h
+
+1599598542 source:c:\users\frankito\desktop\programacion c - utn\clase 5 - arrays\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1599598005 source:c:\users\frankito\desktop\programacion c - utn\clase 5 - arrays\ventores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Vectores.h"
+
+1599598487 source:c:\users\frankito\desktop\programacion c - utn\clase 5 - arrays\funciones-vectores.c
+

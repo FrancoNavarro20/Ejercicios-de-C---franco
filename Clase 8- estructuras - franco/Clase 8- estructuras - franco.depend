@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600450787 source:c:\users\frankito\desktop\programacion c - utn\clase 8- estructuras - franco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1600450418 c:\users\frankito\desktop\programacion c - utn\clase 8- estructuras - franco\estructuras.h
+
+1600451169 source:c:\users\frankito\desktop\programacion c - utn\clase 8- estructuras - franco\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+

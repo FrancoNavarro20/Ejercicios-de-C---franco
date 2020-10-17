@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600810597 source:c:\users\frankito\desktop\programacion c - utn\clase 8 - estructura-empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"empleados.h"
+
+1600810724 source:c:\users\frankito\desktop\programacion c - utn\clase 8 - estructura-empleados\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"empleados.h"
+
+1600800240 c:\users\frankito\desktop\programacion c - utn\clase 8 - estructura-empleados\empleados.h
+

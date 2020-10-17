@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1599601626 source:c:\users\frankito\desktop\programacion c - utn\clase 5 -vectores- posta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Vectores.h"
+
+1599600540 c:\users\frankito\desktop\programacion c - utn\clase 5 -vectores- posta\vectores.h
+	<stdio.h>
+
+1599600530 source:c:\users\frankito\desktop\programacion c - utn\clase 5 -vectores- posta\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Vectores.h"
+

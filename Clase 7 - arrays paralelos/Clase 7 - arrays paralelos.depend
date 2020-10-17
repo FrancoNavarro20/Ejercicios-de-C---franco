@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600207351 source:c:\users\frankito\desktop\programacion c - utn\clase 7 - arrays paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+

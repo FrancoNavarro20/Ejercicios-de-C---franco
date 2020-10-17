@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599655765 source:c:\users\frankito\desktop\programacion c - utn\clase 6 - cadena-de-caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

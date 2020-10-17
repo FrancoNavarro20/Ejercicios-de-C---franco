@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601391885 source:c:\users\frankito\desktop\programacion c - utn\clase 10-alumnosydivisiones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"divisiones.h"
+
+1601390253 source:c:\users\frankito\desktop\programacion c - utn\clase 10-alumnosydivisiones\divisiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"divisiones.h"
+
+1601390159 c:\users\frankito\desktop\programacion c - utn\clase 10-alumnosydivisiones\divisiones.h
+
